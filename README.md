@@ -1,4 +1,4 @@
-# Project2
+# WebDev-Project2-Frontend
 1.	**Project Name:** TaskMaster (TM) 
 2.	**Authors Name:**
     a.	Zwe Min Maw – 6238135
