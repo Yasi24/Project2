@@ -3,7 +3,7 @@
 2.	**Authors Name:**
     a.	Zwe Min Maw – 6238135
     b.	Ahmad Yasi Faizi – 6238001
-    c.	Mun Aung Kyaw – 6238126
+    c.	Min Aung Kyaw – 6238126
 3.	**Project Description:**
     TaskMaster is a todo-list website where users can create tasks, assign them to specific projects, and keep track of their progress as they complete them.
     -	Task: This entity represents the individual tasks that the user wants to complete. Each task may have properties such as a title, description, due date, priority   level, and completion status.
