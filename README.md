@@ -13,8 +13,8 @@
     Add and delete tasks, edit task details, Mark tasks as completed, Sort and filter tasks, add project, delete project, and edit project.
 5.	**TechStack:**
     a.	**Frontend:** HTML, CSS, React
-    b.	**Backend:** Express, NODE
+    b.	**Backend:** Next.js, NODE
     c.	**Database:** Mangodb
 6.  **In conclusion:**
-    Creating a todo list website using React, Express, Node, and MongoDB can be a great way to learn about web development and gain experience with these technologies. We are going to use these in order to make a simple yet complete and modern website that can help the everyday person weather they are students, teacher, etc.
+    Creating a todo list website using React, Node, and MongoDB can be a great way to learn about web development and gain experience with these technologies. We are going to use these in order to make a simple yet complete and modern website that can help the everyday person weather they are students, teacher, etc.
 
